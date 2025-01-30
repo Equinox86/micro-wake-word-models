@@ -1,13 +1,13 @@
 {
-    "type": "micro",
-    "wake_word": "Hey Talos",
-    "author": "Kevin Ahrendt",
-    "website": "https://www.kevinahrendt.com/",
-    "model": "./hey_talos.tflite",
-    "version": 1,
-    "micro": {
-      "probability_cutoff": 0.5,
-      "sliding_window_average_size": 10
-    }
+  "type": "micro",
+  "wake_word": "Hey Talos",
+  "author": "Kevin Ahrendt",
+  "website": "https://www.kevinahrendt.com/",
+  "model": "./hey_talos.tflite",
+  "version": 1,
+  "micro": {
+    "probability_cutoff": 0.5,
+    "sliding_window_average_size": 10
   }
+}
   
